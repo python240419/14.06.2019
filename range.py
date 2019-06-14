@@ -40,3 +40,18 @@ for n in range(-1, -1 * len(burgers) - 1, -1):    # burgers[5] ==> Error!
 
 for n in reversed(range(len(burgers))): # tricky way***
     print(f'#{n} : {burgers[n]}')
+    
+l1 = [2, 4, 5, 6]
+
+l2 = list(range(5))
+print(l2)
+
+l3 = list(range(5, 100, 2))
+print(l3)
+
+l4 = list(reversed(l3))
+print(l4)
+
+x = 5
+l5 = list(range(5, 100, x))
+print(l5)
