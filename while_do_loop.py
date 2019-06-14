@@ -52,17 +52,4 @@ while avg <= 90: # exit condition is always opposite
     counter = counter + 1
     avg = sum / counter
 
-
-# input 2 numbers
-# print message : input + - * / Q
-# + == sum ...
-# if user not entered + - * / Q , ignore, continue
-# if user asked to / by zero - break
-
-
-
-
-
-
-
 print('outside loop............')
