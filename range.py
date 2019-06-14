@@ -40,6 +40,8 @@ for n in range(-1, -1 * len(burgers) - 1, -1):    # burgers[5] ==> Error!
 
 for n in reversed(range(len(burgers))): # tricky way***
     print(f'#{n} : {burgers[n]}')
+
+# create list using range
     
 l1 = [2, 4, 5, 6]
 
