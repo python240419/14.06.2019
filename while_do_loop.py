@@ -55,7 +55,7 @@ while avg <= 90: # exit condition is always opposite
 # input 2 numbers
 # print message : input + - * / Q
 # + == sum ...
-# if user enter not + - * / Q , ignoe, continue
+# if user not entered + - * / Q , ignoe, continue
 # if user asked to / by zero - break
 
 
