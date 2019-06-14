@@ -24,6 +24,7 @@ while x > 0: # exit when the condition if false!
 # write a while loop which inputs a number from the user
 # each time print the numbers between 1- number inputed
 # the loop will terminate when the input number was 0 or below
+# if the user enter 1 then ignore, and skip to next iteration
 x = 1
 while x > 0:
     x = int(input('Enter number: '))
